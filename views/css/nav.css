@@ -1,0 +1,8 @@
+li a.nav-top-item {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    padding: 10px 15px;
+    text-decoration: none;
+}
